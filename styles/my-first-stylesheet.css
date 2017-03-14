@@ -1,0 +1,32 @@
+  /*16px == 1rem*/
+    html {font-size: 16px;}
+    h2 {
+      color:green;
+      text-align;center;
+    }
+    .document-history {
+      background-color:yellow;
+    }
+    /*document selector*/
+    .document-history p {
+      width: 50%;
+    }
+    .admenment {
+      text-aling:center;
+    }
+    .admenment:hover{
+      color:red;
+    }
+    .admenment::first-letter{
+      font-size:4rem;
+    }
+    #bill-of-rights{
+      font-style: italic;
+    }
+    [class]
+    {
+      color:orange;
+    }
+    .highlight{
+      background-color: salmon;
+    }
